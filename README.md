@@ -6,6 +6,6 @@
 Author: Waldemir Cambiucci
 Update: March, 2024
 
-# PYTHON BALANCED HYPERGRAPH PARTITIONING
+# EXPERIMENT - PYTHON BALANCED HYPERGRAPH PARTITIONING
 
 A collection of python code for balanced hypergraph partitioning
